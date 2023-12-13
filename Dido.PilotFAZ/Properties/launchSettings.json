@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Dido.PilotFAZ": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7235",
+      "launchBrowser": false
+    }
+  }
+}
