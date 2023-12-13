@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=http;AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==;BlobEndpoint=http://127.0.0.1:10000/devstoreaccount1;QueueEndpoint=http://127.0.0.1:10001/devstoreaccount1;TableEndpoint=http://127.0.0.1:10002/devstoreaccount1",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "API_EXPRESSNET": "https://apimocha.com/dido/users",
+    "QUEUE_NAME": "didoqueue",
+    "SMTP2GO_API_KEY" :  "api-E2AE9C649F034B73ACBB89DA72EF12F9",
+    "SMTP2GO_API_URL" : "https://api.smtp2go.com/v3"
+  }
+}
